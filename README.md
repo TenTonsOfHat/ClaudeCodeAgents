@@ -1,4 +1,4 @@
-# Claude Code Agents Collection
+# Claude Code Agents Collection (Sourced FROM: https://github.com/darcyegb/ClaudeCodeAgents)
 
 This repository contains a collection of specialized agent definitions for [Claude Code](https://claude.ai/code), Anthropic's AI-powered coding assistant. These agents extend Claude Code's capabilities with specialized behaviors for common development tasks.
 
